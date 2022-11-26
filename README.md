@@ -28,16 +28,13 @@ Project Background
 ➢ Project background and context
 </h2>
  
-<h4> 
-✓ Coursera Inc. is a U.S.-based massive open online course provider founded in 2012 by Stanford University computer science professors Andrew Ng and Daphne    
-   Koller. It works with universities and other organizations to offer online courses and degrees in a variety of fields. In 2021 it was estimated that about 
-   150 universities offered more than 4,000 courses through Coursera. It has 296 partners across 58 countries with over 92 million registered learners across 
-   the world.
+<h4>
+
+Coursera Inc. is a U.S.-based massive open online course provider founded in 2012 by Stanford University computer science professors Andrew Ng and Daphne Koller. It works with universities and other organizations to offer online courses and degrees in a variety of fields. In 2021 it was estimated that about 150 universities offered more than 4,000 courses through Coursera. It has 296 partners across 58 countries with over 92 million registered learners across the world.
  
-  <br>
  
-✓ Q3 of 2021, Coursera reported revenue of $109.9 million, up 33% from $82.7 million a year ago. Gross profit was $67.7 million or 61.6% of revenue. Net loss   
-   was $(32.5) million or (29.5)% of revenue.
+Q3 of 2021, Coursera reported revenue of $109.9 million, up 33% from $82.7 million a year ago. Gross profit was $67.7 million or 61.6% of revenue. Net loss was $(32.5) million or (29.5)% of revenue.
+
 </h4>
 
 <h2>
