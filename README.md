@@ -35,6 +35,7 @@ Coursera Inc. is a U.S.-based massive open online course provider founded in 201
  
 Q3 of 2021, Coursera reported revenue of $109.9 million, up 33% from $82.7 million a year ago. Gross profit was $67.7 million or 61.6% of revenue. Net loss was $(32.5) million or (29.5)% of revenue.
 
+
 </h4>
 
 <h2>
