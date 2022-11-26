@@ -24,9 +24,11 @@ Project Outline
 Project Background 
 </h2>
 
- <h4>
-# ➢ Project background and context
-
+<h2>
+➢ Project background and context
+</h2>
+ 
+<h4> 
 ✓ Coursera Inc. is a U.S.-based massive open online course provider founded in 2012 by Stanford University computer science professors Andrew Ng and Daphne    
   Koller. It works with universities and other organizations to offer online courses and degrees in a variety of fields. In 2021 it was estimated that about 
   150 universities offered more than 4,000 courses through Coursera. It has 296 partners across 58 countries with over 92 million registered learners across 
@@ -37,10 +39,10 @@ Project Background
  </h4>
 
 <h2>
-Problems I'm going to solve as a Machine Learning Engineer
+➢ Problems I'm going to solve as a Machine Learning Engineer
 </h2>
 
- <h4>
+<h4>
  
 1. Attracting more learners and improving the learning experience via helping them quickly find new interested courses and better paving their learning paths.
 
@@ -51,11 +53,6 @@ Problems I'm going to solve as a Machine Learning Engineer
 
 <h2>
 Word Cloud
-</h2>
-
-<p align="center">
-<img src="<h2>
-Project Outline
 </h2>
 
 <p align="center">
