@@ -34,9 +34,9 @@ Project Background
   150 universities offered more than 4,000 courses through Coursera. It has 296 partners across 58 countries with over 92 million registered learners across 
   the world.
   
-✓ Q3 of 2021, Coursera reported revenue of $109.9 million, up 33% from $82.7 million a year ago. Gross
-  profit was $67.7 million or 61.6% of revenue. Net loss was $(32.5) million or (29.5)% of revenue.
- </h4>
+✓ Q3 of 2021, Coursera reported revenue of $109.9 million, up 33% from $82.7 million a year ago. Gross profit was $67.7 million or 61.6% of revenue. Net loss   
+  was $(32.5) million or (29.5)% of revenue.
+</h4>
 
 <h2>
 ➢ Problems I'm going to solve as a Machine Learning Engineer
